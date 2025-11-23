@@ -35,4 +35,4 @@ analyzeData([12, "Hello", false, 22, "World", true, 53, "Osama", false]);
   This means it is directly associated with that if only, not with any other outer if.
 
 -If the if block has already been closed with }, any following else or else if 
- belongs to the next nearest outer if.
+ belongs to the next nearest outer if. */
