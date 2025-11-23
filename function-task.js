@@ -45,5 +45,5 @@ showDetails(true, 38, "Ali");
 showDetails(false, "Ali", 38);
 
 
-// "Hello Osama, Your Age Is 38, 
+// "Hello Ali, Your Age Is 38, 
 //You Are Not Available For Hire"
